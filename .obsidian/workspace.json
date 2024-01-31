@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "961c44dabf293e75",
+        "id": "647efe5b5c79bb7b",
         "type": "tabs",
         "children": [
           {
-            "id": "e04639058e30337a",
+            "id": "a11da2c3b47ababc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/MyBatis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/MyBatis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/MyBatis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Home/MyBatis.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,14 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e04639058e30337a",
+  "active": "5fc7ea524b46e238",
   "lastOpenFiles": [
-    "새 텍스트 문서.txt",
-    "Spaces/Home/Object Relation Mapping.md",
+    "Spaces/Home/Socket.md",
+    "Spaces/Home/Json Web Token.md",
     "Spaces/Home/MyBatis.md",
-    "Spaces/Home/Message Queue.md",
     "Spaces/Home/In-Memory Database.md",
     "Spaces/Home/일괄처리 시스템.md",
+    "새 텍스트 문서.txt",
+    "Spaces/Home/Object Relation Mapping.md",
+    "Spaces/Home/Message Queue.md",
     "새로운 기술 정리.md",
     "Spaces/Home",
     "Spaces"
