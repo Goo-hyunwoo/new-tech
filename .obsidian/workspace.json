@@ -11,8 +11,12 @@
             "id": "a11da2c3b47ababc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/In-Memory Database.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/In-Memory Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/In-Memory Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/In-Memory Database.md"
+              }
             }
           }
         ]
@@ -147,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc7ea524b46e238",
+  "active": "a11da2c3b47ababc",
   "lastOpenFiles": [
     "Spaces/Home/Socket.md",
     "Spaces/Home/Json Web Token.md",
