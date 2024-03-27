@@ -11,9 +11,11 @@
             "id": "64a36b92f52ec0ce",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240311163816.png"
+                "file": "Spaces/Home/실행계획 분석.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240311163816.png",
+                "file": "Spaces/Home/실행계획 분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240311163816.png",
+                "file": "Spaces/Home/실행계획 분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240311163816.png"
+                "file": "Spaces/Home/실행계획 분석.md"
               }
             }
           }
@@ -154,25 +157,30 @@
   },
   "active": "64a36b92f52ec0ce",
   "lastOpenFiles": [
-    "Pasted image 20240311163741.png",
+    "Pasted image 20240327173628.png",
+    "Pasted image 20240327173556.png",
+    "Pasted image 20240327172316.png",
+    "Spaces/Home/Json Web Token.md",
+    "Spaces/Home/Socket.md",
+    "Spaces/Home/Untitled.md",
+    "Spaces/Home/.md",
+    "Spaces/Home/일괄처리 시스템.md",
     "Spaces/Home/실행계획 분석.md",
+    "Pasted image 20240325130055.png",
+    "Spaces/Home/Message Queue.md",
+    "Spaces/Home/MyBatis.md",
+    "Spaces/Home/Object Relation Mapping.md",
+    "Spaces/Home/In-Memory Database.md",
+    "새로운 기술 정리.md",
+    "Pasted image 20240311163816.png",
+    "Pasted image 20240311163741.png",
     "Pasted image 20240311165425.png",
     "Pasted image 20240311165327.png",
     "Pasted image 20240311165231.png",
     "Pasted image 20240311164237.png",
     "Pasted image 20240311164139.png",
-    "Spaces/Home/Untitled.md",
     "Untitled.canvas",
-    "Pasted image 20240311163816.png",
-    "Spaces/Home/In-Memory Database.md",
-    "Spaces/Home/Socket.md",
-    "Spaces/Home/Json Web Token.md",
-    "Spaces/Home/MyBatis.md",
-    "Spaces/Home/일괄처리 시스템.md",
     "새 텍스트 문서.txt",
-    "Spaces/Home/Object Relation Mapping.md",
-    "Spaces/Home/Message Queue.md",
-    "새로운 기술 정리.md",
     "Spaces/Home",
     "Spaces"
   ]
