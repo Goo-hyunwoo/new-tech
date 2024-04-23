@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/In-Memory Database.md",
+                "file": "Spaces/Home/Browser-Javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/In-Memory Database.md",
+                "file": "Spaces/Home/Browser-Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/In-Memory Database.md",
+                "file": "Spaces/Home/Browser-Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/In-Memory Database.md"
+                "file": "Spaces/Home/Browser-Javascript.md"
               }
             }
           }
@@ -147,22 +147,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false
     }
   },
   "active": "67512bd4f42ddcbe",
   "lastOpenFiles": [
+    "Spaces/Home/In-Memory Database.md",
+    "Spaces/Home/Browser-Javascript.md",
     "Spaces/Home/Message Queue.md",
     "Spaces/Home/MyBatis.md",
     "Spaces/Home/Object Relation Mapping.md",
     "Spaces/Home/Socket.md",
     "Spaces/Home/일괄처리 시스템.md",
-    "Spaces/Home/In-Memory Database.md",
     "Spaces/Home/Json Web Token.md",
     "Spaces/Home/실행계획 분석.md",
     "Spaces/Home/Spring Schedule.md",
